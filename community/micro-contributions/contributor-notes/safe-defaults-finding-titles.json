@@ -1,0 +1,4 @@
+{
+  "topic": "Finding title safe defaults",
+  "tip": "When a finding title cannot be determined from the matched content, use a safe default title that clearly describes the pattern matched without exaggerating severity or hiding the concrete action that triggered the finding. Prefer titles that name the risky behavior directly and provide the rule ID for reference."
+}
