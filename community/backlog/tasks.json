@@ -126,5 +126,13 @@
     "file": "community/micro-contributions/contributor-notes/educational-warning.json",
     "topic": "Educational warnings",
     "tip": "Educational security warnings should explain why a pattern is risky and what precondition makes it dangerous, rather than relying on fear-based wording."
+  },
+  {
+    "id": "MC-017",
+    "category": "finding-title",
+    "title": "Add safe defaults guidance for Finding titles [MC-101]",
+    "file": "community/micro-contributions/contributor-notes/safe-defaults-finding-titles.json",
+    "topic": "Finding title safe defaults",
+    "tip": "When a finding title cannot be determined from the matched content, use a safe default title that clearly describes the pattern matched without exaggerating severity or hiding the concrete action that triggered the finding. Prefer titles that name the risky behavior directly and provide the rule ID for reference."
   }
 ]
